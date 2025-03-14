@@ -41,7 +41,7 @@
 
                 <div class="col-lg-5 col-12 mt-5 mt-lg-0">
                     <div class="about-image-wrap">
-                        <img src="images/horizontal-shot-happy-mixed-race-females.jpg" class="about-image about-image-border-radius img-fluid" alt="">
+                        <img src="{{ asset('images/horizontal-shot-happy-mixed-race-females.jpg') }}" class="about-image about-image-border-radius img-fluid" alt="">
 
                         <div class="about-info d-flex">
                             <h4 class="text-white mb-0 me-2">20</h4>

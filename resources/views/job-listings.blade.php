@@ -1,5 +1,5 @@
 @extends('layout.app')
-@section('title', 'work')
+@section('title', 'Job-listings')
 @section('content')
         <main>
 

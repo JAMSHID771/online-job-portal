@@ -43,7 +43,7 @@ Bootstrap 5 HTML CSS Template
         <nav class="navbar navbar-expand-lg">
             <div class="container">
                 <a class="navbar-brand d-flex align-items-center" href="{{ route('index') }}">
-                    <img src="images/logo.png" class="img-fluid logo-image">
+                    <img src="{{ asset('images/logo.png') }}" class="img-fluid logo-image">
     
                     <div class="d-flex flex-column">
                         <strong class="logo-text">Gotto</strong>
